@@ -1,0 +1,8 @@
+properties: 
+  category: testing
+  service: "dining"
+  serviceOffering: "dining offer"
+  branches:
+   - main:
+         ID: 122335
+         item: testproj
